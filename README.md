@@ -1,6 +1,7 @@
 Machine-Learning-With-Python
-========================
-此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习
+来源：
+<br/><br/>CSDN博客地址：<br/>
+http://blog.csdn.net/gamer_gyt/<br/>
 
 0: 【距离计算】MachingLearning中的距离和相似性计算以及python实现:<br/>
 http://blog.csdn.net/gamer_gyt/article/details/75165842 <br/>
@@ -56,13 +57,5 @@ https://blog.csdn.net/Gamer_gyt/article/details/98210975
 https://blog.csdn.net/Gamer_gyt/article/details/98508579
 
 --------------------------
-# 数据采集样例代码
-文件夹为 spider，其内会逐步增加一些爬虫程序和数据，希望对你们有帮助
 
-<br/><br/>CSDN博客地址：<br/>
-http://blog.csdn.net/gamer_gyt/<br/>
 
-如有问题请联系：<br/>
-QQ：1923361654<br/>
-WeChat：gyt13342445911<br/>
-Email：thinkgamer_gyt@gmail.com<br/>
